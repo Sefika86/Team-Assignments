@@ -1,4 +1,4 @@
-package mentorAssignments1;
+package weekly_assignments;
 
 import java.io.IOException;
 

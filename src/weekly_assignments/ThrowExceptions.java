@@ -1,9 +1,7 @@
-package mentorAssignments1;
+package weekly_assignments;
 
 import java.io.IOException;
 import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
-import java.time.format.DateTimeFormatterBuilder;
 import java.util.*;
 
 public class ThrowExceptions {

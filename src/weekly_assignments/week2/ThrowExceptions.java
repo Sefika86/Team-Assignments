@@ -1,4 +1,4 @@
-package weekly_assignments;
+package weekly_assignments.week2;
 
 import java.io.IOException;
 import java.time.LocalDate;

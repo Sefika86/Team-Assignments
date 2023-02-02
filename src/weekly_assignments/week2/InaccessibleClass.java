@@ -1,4 +1,4 @@
-package weekly_assignments;
+package weekly_assignments.week2;
 
 public class InaccessibleClass {   //Declare an inaccessible class.
 

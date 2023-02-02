@@ -1,4 +1,4 @@
-package weekly_assignments;
+package weekly_assignments.week2;
 
 public class MultipleCharCount {
     public static void main(String[] args) {
